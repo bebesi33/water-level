@@ -37,4 +37,5 @@ Ennél is fontosabb korlát lehet, hogy a történelmi adatokból származó ví
 Emiatt könnyen elképzelhető, hogy a fenti előrejelzés túlzottan optimista. Alacsony vízállás esetén ugyanis a kisebb víztömeg gyorsabban felmelegedhet, ami fokozott párolgáshoz vezethet. Ez olyan visszacsatolást eredményezhet, amelyet a jelenlegi modell sehogy sem kezel, és amely a tényleges vízállást a becsültnél alacsonyabb szintre is lökheti.
 
 Bebesi László
+
 2026.06.17, Budapest
